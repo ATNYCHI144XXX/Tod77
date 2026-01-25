@@ -1,4 +1,4 @@
-# Today-is-differentOf course. I will use OCR to extract the text from the documents in the video, one page at a time.
+# Today-is-different
 
 Here is the text from the first document shown in the video:
 
