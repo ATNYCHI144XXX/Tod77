@@ -1,4 +1,4 @@
-# Today-is-different
+#
 
 Here is the text from the first document shown in the video:
 
